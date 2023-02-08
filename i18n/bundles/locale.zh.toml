@@ -1,0 +1,104 @@
+[MainWindowTitle]
+description = "The title of the main window"
+one = "随机密码生成器"
+other = "随机密码生成器"
+
+[PassWdTabTitle]
+description = "The title of the passwd tab"
+one = "生成密码"
+other = "生成密码"
+
+[SettingTabTitle]
+description = "The title of the settings tab"
+one = "全局设置"
+other = "全局设置"
+
+[SettingAppearanceCardTitle]
+description = "The title of the appearance card"
+one = "外观"
+other = "外观"
+
+[SettingThemeFormTitle]
+description = "The title of the theme form"
+one = "主题"
+other = "主题"
+
+[SettingLangFormTitle]
+description = "The title of the language form"
+one = "语言"
+other = "语言"
+
+[PasswdStrengthLabel]
+description = "The label of the strength of one password"
+one = "密码强度"
+other = "密码强度"
+
+[PasswdLengthLabel]
+description = "The label of the length of one password"
+one = "密码长度"
+other = "密码长度"
+
+[PasswdLengthSlideLabel]
+description = "The label of the length slide of one password"
+one = "长度滑块"
+other = "长度滑块"
+
+[PasswdGenCardTitle]
+description = "The title of the card container of passwdgen"
+one = "生成随机密码"
+other = "生成随机密码"
+
+[HistoryCardTitle]
+description = ""
+one = "历史记录"
+other = "历史记录"
+
+[NumberCheckLabel]
+description = ""
+one = "数字"
+other = "数字"
+
+[LowercaseCheckLabel]
+description = ""
+one = "小写字母"
+other = "小写字母"
+
+[UppercaseCheckLabel]
+description = ""
+one = "大写字母"
+other = "大写字母"
+
+[DuplicateCheckLabel]
+description = ""
+one = "允许重复"
+other = "允许重复"
+
+[CopyButtonLabel]
+description = ""
+one = "复制"
+other = "复制"
+
+[GenerateButtonLabel]
+description = ""
+one = "生成"
+other = "生成"
+
+[ResetButtonLabel]
+description = ""
+one = "重置"
+other = "重置"
+
+[HistoryCheckLabel]
+description = ""
+one = "保存历史记录"
+other = "保存历史记录"
+
+[IncludeSpecialCharSetFormLabel]
+description = ""
+one = "包含字符"
+other = "包含字符"
+
+[ExcludeSpecialCharSetFormLabel]
+description = ""
+one = "排除字符"
+other = "排除字符"

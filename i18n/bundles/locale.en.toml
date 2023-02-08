@@ -1,0 +1,104 @@
+[MainWindowTitle]
+description = "The title of the main window"
+one = "passwdgen"
+other = "passwdgen"
+
+[PassWdTabTitle]
+description = "The title of the passwd tab"
+one = "Passwd Gen"
+other = "Passwd Gen"
+
+[SettingTabTitle]
+description = "The title of the settings tab"
+one = "Settings"
+other = "Settings"
+
+[SettingAppearanceCardTitle]
+description = "The title of the appearance card"
+one = "Appearance"
+other = "Appearance"
+
+[SettingThemeFormTitle]
+description = "The title of the theme form"
+one = "Theme"
+other = "Theme"
+
+[SettingLangFormTitle]
+description = "The title of the language form"
+one = "Language"
+other = "Language"
+
+[PasswdStrengthLabel]
+description = "The label of the strength of one password"
+one = "Password Strength"
+other = "Password Strength"
+
+[PasswdLengthLabel]
+description = "The label of the length of one password"
+one = "Password Length"
+other = "Password Length"
+
+[PasswdLengthSlideLabel]
+description = "The label of the length slide of one password"
+one = "Length Slide"
+other = "Length Slide"
+
+[PasswdGenCardTitle]
+description = "The title of the card container of passwdgen"
+one = "Generate Random Password"
+other = "Generate Random Password"
+
+[HistoryCardTitle]
+description = ""
+one = "History Record"
+other = "History Record"
+
+[NumberCheckLabel]
+description = ""
+one = "Number"
+other = "Number"
+
+[LowercaseCheckLabel]
+description = ""
+one = "Lowercase"
+other = "Lowercase"
+
+[UppercaseCheckLabel]
+description = ""
+one = "Uppercase"
+other = "Uppercase"
+
+[DuplicateCheckLabel]
+description = ""
+one = "Allow Duplicates"
+other = "Allow Duplicates"
+
+[CopyButtonLabel]
+description = ""
+one = "Copy"
+other = "Copy"
+
+[GenerateButtonLabel]
+description = ""
+one = "Generate"
+other = "Generate"
+
+[ResetButtonLabel]
+description = ""
+one = "Reset"
+other = "Reset"
+
+[HistoryCheckLabel]
+description = ""
+one = "Save History Record"
+other = "Save History Record"
+
+[IncludeSpecialCharSetFormLabel]
+description = ""
+one = "Include Charset"
+other = "Include Charset"
+
+[ExcludeSpecialCharSetFormLabel]
+description = ""
+one = "Exclude Charset"
+other = "Exclude Charset"
